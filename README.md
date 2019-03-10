@@ -3,7 +3,9 @@
 ## What does the game look like
 <img src="image/GameStart.jpg" alt="GameStart" width="400"/>
 <img src="image/GameOver.jpg" alt="GameOver" width="400"/>
+
 ## How to play the game
+
 ##### 1. Compile these files
 Since the program is written by Javafx, which is a GUI Library in java, you must have pre-installed the library, or it will not compile. I recommand using JDK8, which has already included Javafx.
 ##### 2. Start a game
