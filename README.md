@@ -1,7 +1,7 @@
 # PacMan Game for CSE11: Intro to OOP in Java(accelerated)
 * This program is from an assignment of athe first Java class at UCSD, which provided a graphic Pacman game. 
 ## What does the game look like
-![Game Start](/image/GameStart.jpg =100x20)
+<img src="GameStart.jpg" alt="drawing" width="200"/>
 
 ## How to play the game
 ##### 1. Compile these files
