@@ -16,11 +16,16 @@ to set the size of the board and play the game.
 * Press `←`, `↑`, `→` , and  `↓` for moving.
 * Press `s` if you want to save the game progress.
 * Press `Q` to undo.
-## Extra features:
+## Extra features
 1. Different pictures for different ghost objects.
 2. User can press 'Q' to go back a step, when he regrets his previous moving choice. However,
 if he press Q before any movement, the console will print a message and the game continues.
-
+## Skills practiced
+* Object-Oriented Programming and UML design.
+* Abstraction and Polymorphism
+* Inner Class/Abstract Class/Interface
+* Gui Application
+* etc.
 ## Author
 
 * **Yuan Gao** - *Initial work* - [cs11wkk](mailto:y1gao@ucsd.edu)
