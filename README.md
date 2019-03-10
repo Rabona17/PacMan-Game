@@ -1,7 +1,7 @@
 # PacMan Game for CSE11: Intro to OOP in Java(accelerated)
 * This program is from an assignment of athe first Java class at UCSD, which provided a graphic Pacman game. 
 ## What does the game look like
-![Game Start](/image/GameStart.jpg =200x)
+![Game Start](/image/GameStart.jpg =100*20)
 
 ## How to play the game
 ##### 1. Compile these files
@@ -9,7 +9,7 @@ Since the program is written by Javafx, which is a GUI Library in java, you must
 ##### 2. Start a game
 User can simply type `java GuiPacman (-s <integer>) (-i inputfile) (-o outputfile)` (order doesn't matter)
 to set the size of the board and play the game.
-
+200x
 * `-s <integer>`	- used to specify the grid size. If not specified, using default size 10.
 
 * `-i <string>`  - used to specify the file from which you want to load your game progress. If not specified, it will start a new game.
