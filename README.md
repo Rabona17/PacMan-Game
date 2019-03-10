@@ -1,7 +1,8 @@
 # PacMan Game for CSE11: Intro to OOP in Java(accelerated)
 * This program is from an assignment of athe first Java class at UCSD, which provided a graphic Pacman game. 
 ## What does the game look like
-![Game Start](/image/GameStart.jpg)
+![Game Start](/image/GameStart.jpg =200x)
+![Game Over](/image/GameOver.jpg =200x)
 ## How to play the game
 ##### 1. Compile these files
 Since the program is written by Javafx, which is a GUI Library in java, you must have pre-installed the library, or it will not compile. I recommand using JDK8, which has already included Javafx.
