@@ -1,5 +1,5 @@
-# PacMan Game for CSE11: Intro to OOP in Java(accelerated)
-* This program is from an assignment of athe first Java class at UCSD, which provided a graphic Pacman game. 
+# PacMan Game In Javafx
+* This program provides a graphic Pacman game. 
 ## What does the game look like
 <img src="image/GameStart.jpg" alt="GameStart" width="400"/>
 <img src="image/GameOver.jpg" alt="GameOver" width="400"/>
