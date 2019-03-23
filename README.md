@@ -28,7 +28,7 @@ if he press Q before any movement, the console will print a message and the game
 * Object-Oriented Programming and UML design.
 * Abstraction and Polymorphism
 * Inner Class/Abstract Class/Interface
-* Gui Application
+* Gui Application and event handling
 * etc.
 ## Author
 
